@@ -228,19 +228,19 @@
     },
     "fontWeights": {
       "headingRegular": {
-        "value": "Regular",
+        "value": "{fontWeights.museo-sans-0}",
         "type": "fontWeights"
       },
       "headingBold": {
-        "value": "Bold",
+        "value": "{fontWeights.museo-sans-1}",
         "type": "fontWeights"
       },
       "bodyRegular": {
-        "value": "Regular",
+        "value": "{fontWeights.museo-sans-0}",
         "type": "fontWeights"
       },
       "bodyBold": {
-        "value": "Bold",
+        "value": "{fontWeights.museo-sans-1}",
         "type": "fontWeights"
       },
       "museo-sans-0": {
@@ -249,10 +249,6 @@
       },
       "museo-sans-1": {
         "value": "500",
-        "type": "fontWeights"
-      },
-      "mulish-2": {
-        "value": "Regular",
         "type": "fontWeights"
       }
     },
