@@ -108,19 +108,15 @@
     },
     "fontFamilies": {
       "heading": {
-        "value": "Inter",
+        "value": "{fontFamilies.museo-sans}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Roboto",
+        "value": "{fontFamilies.museo-sans}",
         "type": "fontFamilies"
       },
       "museo-sans": {
         "value": "Museo Sans",
-        "type": "fontFamilies"
-      },
-      "mulish": {
-        "value": "Mulish",
         "type": "fontFamilies"
       }
     },
