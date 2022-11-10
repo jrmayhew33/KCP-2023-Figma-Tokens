@@ -3827,7 +3827,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "#7557c7",
+          "value": "#40c4b3",
           "type": "color"
         }
       },
@@ -3859,7 +3859,7 @@
             "description": "token=md.sys.color.error-container\n\nerror-container / on-error-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
           },
           "on-tertiary-container": {
-            "value": "#21005d",
+            "value": "#00201c",
             "type": "color",
             "description": "token=md.sys.color.on-tertiary-container\n\ntertiary-container / on-tertiary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
           },
@@ -3869,12 +3869,12 @@
             "description": "token=md.sys.color.on-tertiary\n\ntertiary / on-tertiary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Fail\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
           },
           "tertiary-container": {
-            "value": "#e8ddff",
+            "value": "#74f8e5",
             "type": "color",
             "description": "token=md.sys.color.tertiary-container\n\ntertiary-container / on-tertiary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
           },
           "tertiary": {
-            "value": "#6849b9",
+            "value": "#006a60",
             "type": "color",
             "description": "token=md.sys.color.tertiary\n\ntertiary / on-tertiary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Fail\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
           },
@@ -4006,22 +4006,22 @@
             "description": "token=md.sys.color.error-container\n\nerror-container / on-error-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
           },
           "on-tertiary-container": {
-            "value": "#e8ddff",
+            "value": "#74f8e5",
             "type": "color",
             "description": "token=md.sys.color.on-tertiary-container\n\ntertiary-container / on-tertiary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
           },
           "on-tertiary": {
-            "value": "#390f88",
+            "value": "#003731",
             "type": "color",
             "description": "token=md.sys.color.on-tertiary\n\ntertiary / on-tertiary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
           },
           "tertiary-container": {
-            "value": "#502f9f",
+            "value": "#005048",
             "type": "color",
             "description": "token=md.sys.color.tertiary-container\n\ntertiary-container / on-tertiary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
           },
           "tertiary": {
-            "value": "#cfbdff",
+            "value": "#54dbc9",
             "type": "color",
             "description": "token=md.sys.color.tertiary\n\ntertiary / on-tertiary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
           },
@@ -4381,57 +4381,57 @@
             "description": "token=md.ref.palette.tertiary0"
           },
           "tertiary10": {
-            "value": "#21005d",
+            "value": "#00201c",
             "type": "color",
             "description": "token=md.ref.palette.tertiary10"
           },
           "tertiary20": {
-            "value": "#390f88",
+            "value": "#003731",
             "type": "color",
             "description": "token=md.ref.palette.tertiary20"
           },
           "tertiary30": {
-            "value": "#502f9f",
+            "value": "#005048",
             "type": "color",
             "description": "token=md.ref.palette.tertiary30"
           },
           "tertiary40": {
-            "value": "#6849b9",
+            "value": "#006a60",
             "type": "color",
             "description": "token=md.ref.palette.tertiary40"
           },
           "tertiary50": {
-            "value": "#8163d4",
+            "value": "#008679",
             "type": "color",
             "description": "token=md.ref.palette.tertiary50"
           },
           "tertiary60": {
-            "value": "#9b7ef0",
+            "value": "#00a393",
             "type": "color",
             "description": "token=md.ref.palette.tertiary60"
           },
           "tertiary70": {
-            "value": "#b59cff",
+            "value": "#2dbfad",
             "type": "color",
             "description": "token=md.ref.palette.tertiary70"
           },
           "tertiary80": {
-            "value": "#cfbdff",
+            "value": "#54dbc9",
             "type": "color",
             "description": "token=md.ref.palette.tertiary80"
           },
           "tertiary90": {
-            "value": "#e8ddff",
+            "value": "#74f8e5",
             "type": "color",
             "description": "token=md.ref.palette.tertiary90"
           },
           "tertiary95": {
-            "value": "#f5eeff",
+            "value": "#b4fff2",
             "type": "color",
             "description": "token=md.ref.palette.tertiary95"
           },
           "tertiary99": {
-            "value": "#fffbff",
+            "value": "#f2fffb",
             "type": "color",
             "description": "token=md.ref.palette.tertiary99"
           },
@@ -4441,17 +4441,17 @@
             "description": "token=md.ref.palette.tertiary100"
           },
           "tertiary25": {
-            "value": "#442194",
+            "value": "#00443c",
             "type": "color",
             "description": "token=md.ref.palette.tertiary25"
           },
           "tertiary35": {
-            "value": "#5c3cac",
+            "value": "#005d54",
             "type": "color",
             "description": "token=md.ref.palette.tertiary35"
           },
           "tertiary98": {
-            "value": "#fdf7ff",
+            "value": "#e5fff9",
             "type": "color",
             "description": "token=md.ref.palette.tertiary98"
           }
@@ -4636,7 +4636,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "#7557c7",
+          "value": "#40c4b3",
           "type": "color"
         },
         "error": {
