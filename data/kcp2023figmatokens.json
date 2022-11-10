@@ -399,7 +399,7 @@
         "description": "#14473F"
       }
     },
-    "Grayscale": {
+    "Grayscale (Deprecated)": {
       "White": {
         "value": "#ffffff",
         "type": "color",
