@@ -2146,52 +2146,52 @@
             "description": "token=md.ref.palette.neutral0"
           },
           "neutral10": {
-            "value": "#001d32",
+            "value": "#1D1B1E",
             "type": "color",
             "description": "token=md.ref.palette.neutral10"
           },
           "neutral20": {
-            "value": "#003353",
+            "value": "#322F33",
             "type": "color",
             "description": "token=md.ref.palette.neutral20"
           },
           "neutral30": {
-            "value": "#004a76",
+            "value": "#49464A",
             "type": "color",
             "description": "token=md.ref.palette.neutral30"
           },
           "neutral40": {
-            "value": "#00639a",
+            "value": "#615D61",
             "type": "color",
             "description": "token=md.ref.palette.neutral40"
           },
           "neutral50": {
-            "value": "#217cbb",
+            "value": "#7A767A",
             "type": "color",
             "description": "token=md.ref.palette.neutral50"
           },
           "neutral60": {
-            "value": "#4696d7",
+            "value": "#948F94",
             "type": "color",
             "description": "token=md.ref.palette.neutral60"
           },
           "neutral70": {
-            "value": "#64b1f3",
+            "value": "#AFAAAE",
             "type": "color",
             "description": "token=md.ref.palette.neutral70"
           },
           "neutral80": {
-            "value": "#96ccff",
+            "value": "#CAC5CA",
             "type": "color",
             "description": "token=md.ref.palette.neutral80"
           },
           "neutral90": {
-            "value": "#cee5ff",
+            "value": "#E7E1E5",
             "type": "color",
             "description": "token=md.ref.palette.neutral90"
           },
           "neutral95": {
-            "value": "#e8f2ff",
+            "value": "#F5EFF4",
             "type": "color",
             "description": "token=md.ref.palette.neutral95"
           },
@@ -2205,18 +2205,13 @@
             "type": "color",
             "description": "token=md.ref.palette.neutral100"
           },
-          "neutralNaN": {
-            "value": "#ffffff",
-            "type": "color",
-            "description": "token=md.ref.palette.neutralNaN"
-          },
           "neutral25": {
-            "value": "#003e64",
+            "value": "#3D3A3E",
             "type": "color",
             "description": "token=md.ref.palette.neutral25"
           },
           "neutral35": {
-            "value": "#005688",
+            "value": "#545155",
             "type": "color",
             "description": "token=md.ref.palette.neutral35"
           },
@@ -2362,22 +2357,6 @@
               "value": "#001a40",
               "type": "color"
             },
-            "custom color 1": {
-              "value": "#2a6b29",
-              "type": "color"
-            },
-            "on-custom color 1": {
-              "value": "#ffffff",
-              "type": "color"
-            },
-            "custom color 1-container": {
-              "value": "#acf4a1",
-              "type": "color"
-            },
-            "on-custom color 1-container": {
-              "value": "#002203",
-              "type": "color"
-            },
             "kcp logo": {
               "value": "#2e5da8",
               "type": "color"
@@ -2410,22 +2389,6 @@
             },
             "on-color-container": {
               "value": "#d7e2ff",
-              "type": "color"
-            },
-            "custom color 1": {
-              "value": "#91d888",
-              "type": "color"
-            },
-            "on-custom color 1": {
-              "value": "#003907",
-              "type": "color"
-            },
-            "custom color 1-container": {
-              "value": "#0c5313",
-              "type": "color"
-            },
-            "on-custom color 1-container": {
-              "value": "#acf4a1",
               "type": "color"
             },
             "kcp logo": {
@@ -2546,18 +2509,6 @@
               "value": "#00201b",
               "type": "color"
             },
-            "custom color 2": {
-              "value": "#6d5e00",
-              "type": "color"
-            },
-            "on-custom color 2": {
-              "value": "#ffffff",
-              "type": "color"
-            },
-            "custom color 2-container": {
-              "value": "#ffe251",
-              "type": "color"
-            },
             "on-custom color 2-container": {
               "value": "#211b00",
               "type": "color"
@@ -2594,22 +2545,6 @@
             },
             "on-color-container": {
               "value": "#76f8e1",
-              "type": "color"
-            },
-            "custom color 2": {
-              "value": "#e4c500",
-              "type": "color"
-            },
-            "on-custom color 2": {
-              "value": "#393000",
-              "type": "color"
-            },
-            "custom color 2-container": {
-              "value": "#524600",
-              "type": "color"
-            },
-            "on-custom color 2-container": {
-              "value": "#ffe251",
               "type": "color"
             },
             "sustainability": {
