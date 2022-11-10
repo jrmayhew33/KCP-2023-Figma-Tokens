@@ -1660,6 +1660,31 @@
             "value": "#2d5da7",
             "type": "color",
             "description": "token=md.sys.color.primary\n\nprimary / on-primary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Fail\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n\n\nprimary / on-primary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Fail\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+          },
+          "surface1": {
+            "value": "#f2f3fa",
+            "type": "color",
+            "description": "This is surface + 5% Primary (flatted already)"
+          },
+          "surface2": {
+            "value": "#edeef8",
+            "type": "color",
+            "description": "This is surface plus 8% primiary (flatted already)"
+          },
+          "surface3": {
+            "value": "#e6e9f5",
+            "type": "color",
+            "description": "This is suraface + 11% primary (calculated and flattened)"
+          },
+          "surface4": {
+            "value": "#e3e7f4",
+            "type": "color",
+            "description": "This is suraface + 12% primary (calculated and flattened)"
+          },
+          "surface5": {
+            "value": "#dfe5f2",
+            "type": "color",
+            "description": "This is surface + 14% primary (calcualated and flattened already)"
           }
         },
         "dark": {
@@ -1807,6 +1832,31 @@
             "value": "#abc7ff",
             "type": "color",
             "description": "token=md.sys.color.primary\n\nprimary / on-primary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n\n\nprimary / on-primary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+          },
+          "surface1": {
+            "value": "#22242a",
+            "type": "color",
+            "description": "This is surface + 5% Primary (flatted already)"
+          },
+          "surface2": {
+            "value": "#262931",
+            "type": "color",
+            "description": "This is surface + 8% Primary (flatted already)"
+          },
+          "surface3": {
+            "value": "#2a2e38",
+            "type": "color",
+            "description": "This is surface + 11% Primary (flatted already)"
+          },
+          "surface4": {
+            "value": "#2e333f",
+            "type": "color",
+            "description": "This is surface + 12% Primary (flatted already)"
+          },
+          "surface5": {
+            "value": "#2e333f",
+            "type": "color",
+            "description": "This is surface + 14% Primary (flatted already)"
           }
         }
       },
@@ -3977,6 +4027,26 @@
             "value": "#7542bb",
             "type": "color",
             "description": "token=md.sys.color.primary\n\nprimary / on-primary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Fail\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+          },
+          "surface1": {
+            "value": "#f8f1fb",
+            "type": "color"
+          },
+          "surface2": {
+            "value": "#f5ecfa",
+            "type": "color"
+          },
+          "surface3": {
+            "value": "#f1e6f9",
+            "type": "color"
+          },
+          "surface4": {
+            "value": "#eee4f6",
+            "type": "color"
+          },
+          "surface5": {
+            "value": "#ebe1f5",
+            "type": "color"
           }
         },
         "dark": {
@@ -4124,6 +4194,26 @@
             "value": "#d7baff",
             "type": "color",
             "description": "token=md.sys.color.primary\n\nprimary / on-primary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+          },
+          "surface1": {
+            "value": "#262228",
+            "type": "color"
+          },
+          "surface2": {
+            "value": "#2b272f",
+            "type": "color"
+          },
+          "surface3": {
+            "value": "#312b37",
+            "type": "color"
+          },
+          "surface4": {
+            "value": "#322e38",
+            "type": "color"
+          },
+          "surface5": {
+            "value": "#37303e",
+            "type": "color"
           }
         }
       },
