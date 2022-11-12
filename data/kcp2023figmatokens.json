@@ -1,4 +1,4 @@
-{ 
+{
   "global": {
     "spacing": {
       "scale": {
@@ -431,7 +431,7 @@
       }
     },
     "Brand": {
-      "Brand KCP1": {
+      "Brand KCP": {
         "value": "#11223e",
         "type": "color"
       },
@@ -3891,13 +3891,13 @@
       "value": {
         "borderRadius": "{borderRadius.xs}",
         "border": "{KCP.brand-kcp}",
-        "fill": "{Alert Colors.Warning Orange}"
+        "fill": "{KCP.brand-kcp}"
       },
       "type": "composition"
     }
   },
   "Kimtech": {
-    "KCP 2023": {
+    "KCP": {
       "white": {
         "value": "#ffffff",
         "type": "color"
