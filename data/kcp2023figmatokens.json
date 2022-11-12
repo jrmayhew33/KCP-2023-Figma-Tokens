@@ -3891,7 +3891,7 @@
       "value": {
         "borderRadius": "{borderRadius.xs}",
         "border": "{KCP.brand-kcp}",
-        "fill": "{KCP.brand-kcp}"
+        "fill": "{Alert Colors.Warning Orange}"
       },
       "type": "composition"
     }
