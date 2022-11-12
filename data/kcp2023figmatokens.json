@@ -3887,10 +3887,11 @@
         }
       }
     },
-    "KCP2023-comp-button-primary": {
+    "KCP-comp-button-primary": {
       "value": {
         "borderRadius": "{borderRadius.xs}",
-        "border": "{KCP2023-comp-button-primary}"
+        "border": "{KCP.brand-kcp}",
+        "fill": "{KCP.brand-kcp}"
       },
       "type": "composition"
     }
