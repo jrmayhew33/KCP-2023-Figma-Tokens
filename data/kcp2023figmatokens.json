@@ -1,4 +1,4 @@
-{
+{ 
   "global": {
     "spacing": {
       "scale": {
@@ -431,7 +431,7 @@
       }
     },
     "Brand": {
-      "Brand KCP": {
+      "Brand KCP1": {
         "value": "#11223e",
         "type": "color"
       },
