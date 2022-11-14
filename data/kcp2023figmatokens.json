@@ -3624,45 +3624,47 @@
           }
         }
       },
-      "brand-wypall": {
-        "value": "#e31f26",
-        "type": "color",
-        "description": "WypAll Primary color"
-      },
-      "brand-cottonelle": {
-        "value": "#172a5b",
-        "type": "color",
-        "description": "Cottonelle primary brand color"
-      },
-      "brand-kleenex": {
-        "value": "#165fab",
-        "type": "color",
-        "description": "Kleenex primary brand color"
-      },
-      "brand-kcp": {
-        "value": "#11223e",
-        "type": "color",
-        "description": "KCP primary brand color"
-      },
-      "brand-scott": {
-        "value": "#0984c2",
-        "type": "color",
-        "description": "Scott primary brand color"
-      },
-      "brand-kleenguard": {
-        "value": "#ef8b22",
-        "type": "color",
-        "description": "Kleenguard primary brand color"
-      },
-      "brand-kimtech": {
-        "value": "#6244bb",
-        "type": "color",
-        "description": "Kimtech primary brand color"
-      },
-      "brand-onvation": {
-        "value": "#005cab",
-        "type": "color",
-        "description": "Onvation primary brand color"
+      "brandcolor": {
+        "wypall": {
+          "value": "#e31f26",
+          "type": "color",
+          "description": "WypAll Primary color"
+        },
+        "cottonelle": {
+          "value": "#172a5b",
+          "type": "color",
+          "description": "Cottonelle primary brand color"
+        },
+        "kleenex": {
+          "value": "#165fab",
+          "type": "color",
+          "description": "Kleenex primary brand color"
+        },
+        "kcp": {
+          "value": "#11223e",
+          "type": "color",
+          "description": "KCP primary brand color"
+        },
+        "scott": {
+          "value": "#0984c2",
+          "type": "color",
+          "description": "Scott primary brand color"
+        },
+        "kleenguard": {
+          "value": "#ef8b22",
+          "type": "color",
+          "description": "Kleenguard primary brand color"
+        },
+        "kimtech": {
+          "value": "#6244bb",
+          "type": "color",
+          "description": "Kimtech primary brand color"
+        },
+        "onvation": {
+          "value": "#005cab",
+          "type": "color",
+          "description": "Onvation primary brand color"
+        }
       }
     },
     "KCP 2023": {
@@ -3890,8 +3892,8 @@
     "KCP-comp-button-primary": {
       "value": {
         "borderRadius": "{borderRadius.xs}",
-        "border": "{KCP.brand-kcp}",
-        "fill": "{KCP.brand-kcp}"
+        "border": "{KCP.brandcolor.kcp}",
+        "fill": "{KCP.brandcolor.kcp}"
       },
       "type": "composition"
     }
