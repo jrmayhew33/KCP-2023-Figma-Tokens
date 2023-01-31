@@ -4800,20 +4800,14 @@
     {
       "id": "e683bc3a5f750e079a6bb7c02e63aa13e7b9e7b3",
       "name": "Kimtech",
-      "selectedTokenSets": {
-        "global": "disabled",
-        "Kimtech": "disabled",
-        "WypAll": "disabled"
-      },
+      "selectedTokenSets": {},
       "$figmaStyleReferences": {}
     },
     {
       "id": "4d7bd5c7a20a5682cfc029626084ac8a103ecd38",
       "name": "KCP 2023",
       "selectedTokenSets": {
-        "global": "source",
-        "Kimtech": "disabled",
-        "WypAll": "disabled"
+        "global": "source"
       },
       "$figmaStyleReferences": {}
     },
@@ -4821,9 +4815,7 @@
       "id": "69f6a91b7a2bc345f4f11651cbdca81b26dc83d4",
       "name": "KCP",
       "selectedTokenSets": {
-        "global": "source",
-        "Kimtech": "disabled",
-        "WypAll": "disabled"
+        "global": "source"
       },
       "$figmaStyleReferences": {}
     }
